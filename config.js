@@ -10,7 +10,7 @@ const CONFIG = {
     question:'Hãy nói cho Anh nghe  vì sao Bé thương anh nhiều😊😊',
     reasonPlaceholder: 'Hãy cho anh biết lý do của Bé nà',
     btnReply: 'Gởi ! 💌💌',
-    reply: 'Tại vì anh đẹp trai đó Ahiiiii 😊😊',
+    reply: 'Tại vì anh đẹp trai, hiền lành và chân thành đó Ahiiiii 😊😊',
     mess: 'Anh biết mà, Anh cũng thương bé nhiều lắm lắm 🥰. I Love you forever 😘😘',
     messDesc: '💬💬 Nhắn tin cho Anh nha. 💬💬',
     btnAccept: 'Dạ Anh 💖',
